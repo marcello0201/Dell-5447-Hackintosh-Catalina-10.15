@@ -10,7 +10,7 @@ Intel HD4400
 
 SSD 256GB Micron
 
-MacOS Mojave 10.15 (19A583)
+MacOS Catalina 10.15 (19A583)
 
 Hardware Specs:
 
