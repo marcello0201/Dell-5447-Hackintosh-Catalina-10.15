@@ -74,6 +74,7 @@ RealtekRTL8100.kext
 
 
 /System/Library/Displays/Contents/Resources/Overrides
+
 DisplayProductID-5f1
 
 /usr/bin
