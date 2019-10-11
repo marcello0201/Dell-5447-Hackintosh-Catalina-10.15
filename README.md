@@ -80,3 +80,10 @@ DisplayProductID-5f1
 /usr/bin
 
 hda-verb - Updated
+
+Iniciar com o sistema -  Repara o chiado do som quando colocado via fones de ouvido P2
+
+AudioScript
+
+Jack fix
+
