@@ -52,14 +52,6 @@ AppleALC.kext - Updated
 
 ApplePS2SmartTouchPad.kext - Updated
 
-BrcmBluetoothInjector.kext - Updated
-
-BrcmFirmwareData.kext - Updated
-
-BrcmFirmwareRepo.kext - Updated
-
-BrcmPatchRAM2.kext - Updated
-
 CodecCommander.kext - Updated
 
 FakePCIID_Intel_HD_Graphics.kext
@@ -72,6 +64,13 @@ Lilu.kext - Updated
 
 RealtekRTL8100.kext
 
+/Biblioteca/Extensions/
+
+BrcmBluetoothInjector.kext - Updated
+
+BrcmFirmwareRepo.kext - Updated
+
+BrcmPatchRAM2.kext - Updated
 
 /System/Library/Displays/Contents/Resources/Overrides
 
