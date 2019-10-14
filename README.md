@@ -58,6 +58,8 @@ FakePCIID_Intel_HD_Graphics.kext
 
 FakePCIID.kext
 
+FakePCIID_Broadcom_WiFi.kext
+
 FakeSMC.kext
 
 Lilu.kext - Updated
