@@ -1,4 +1,4 @@
-https://uploaddeimagens.com.br/imagens/captura_de_tela_2019-10-11_as_10-39-55-png
+https://ibb.co/31zR3zm
 
 Dell Inspiron 5447 Bios A12
 
